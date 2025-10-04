@@ -1,0 +1,40 @@
+body {
+    background-color: #EAD9B7;
+    color: #3e2f1c;
+    font-family: 'Cinzel', serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    background-color: #B08968;
+    color: #fff;
+    padding: 20px 0;
+}
+.logo img {
+    width: 80px;
+}
+.slogan {
+    font-style: italic;
+    margin-top: 5px;
+}
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.today-history h2 {
+    text-align: center;
+    border-bottom: 2px solid #5E503F;
+    padding-bottom: 10px;
+}
+footer {
+    text-align: center;
+    background-color: #5E503F;
+    color: #fff;
+    padding: 15px;
+    font-size: 14px;
+}
